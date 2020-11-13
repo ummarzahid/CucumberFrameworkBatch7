@@ -1,0 +1,9 @@
+{
+  "emp_firstname": "syntaxFirstName",
+  "emp_lastname": "syntaxLastName",
+  "emp_middle_name": "syntaxMiddleName",
+  "emp_gender": "F",
+  "emp_birthday": "2000-07-11",
+  "emp_status": "Employee",
+  "emp_job_title": "Cloud Architect"
+}
